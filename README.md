@@ -16,8 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/user-attachments/assets/8c6e637f-b9d2-4f59-affa-b2dbbacf1e05)
-">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://static-00.iconduck.com/assets.00/jest-icon-927x1024-76mphqgk.png">
 </div>
 
 ##
