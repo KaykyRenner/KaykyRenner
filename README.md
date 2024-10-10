@@ -20,9 +20,9 @@
 ## 🚀 Tecnologias que uso:
 
 <div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Node.js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Jest" height="40" width="50" src="https://static-00.iconduck.com/assets.00/jest-icon-927x1024-76mphqgk.png" />
