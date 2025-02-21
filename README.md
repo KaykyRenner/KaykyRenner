@@ -27,6 +27,7 @@
   <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Jest" height="40" width="50" src="https://static-00.iconduck.com/assets.00/jest-icon-927x1024-76mphqgk.png" />
   <img align="center" alt="Jest" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" />
+  <img align="center" alt="Jest" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" />
 </div>
 
 ---
