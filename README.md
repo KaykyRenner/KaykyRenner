@@ -26,7 +26,7 @@
   <img align="center" alt="Node.js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Jest" height="40" width="50" src="https://static-00.iconduck.com/assets.00/jest-icon-927x1024-76mphqgk.png" />
-  <img align="center" alt="Jest" height="40" width="50" src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" />
+  <img align="center" alt="Jest" height="40" width="50" src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://cdn-images-1.medium.com/max/992/1*Nnu-OC1BbymgvpOiY9nvwg.png)" />
 </div>
 
 ---
