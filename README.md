@@ -26,7 +26,7 @@
   <img align="center" alt="Node.js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Jest" height="40" width="50" src="https://static-00.iconduck.com/assets.00/jest-icon-927x1024-76mphqgk.png" />
-  <img align="center" alt="Jest" height="40" width="50" src="https%3A%2F%2Fitnext.io%2Fexposing-an-outsystems-rest-service-with-an-oauth-style-authorization-fded258cbe14&psig=AOvVaw1q8a11kG1NsHcpDsS9UjQ4&ust=1740251157544000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPic8PO61YsDFQAAAAAdAAAAABAR" />
+  <img align="center" alt="Jest" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" />
 </div>
 
 ---
